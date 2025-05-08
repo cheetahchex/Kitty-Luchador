@@ -20,7 +20,7 @@
 ## 🚀 Getting Started
 
 ### Requirements
-- Windows PowerShell (recommended: PowerShell 5.1+)
+- PowerShell on any supported OS
 
 ### Running the Bot
 1. Open PowerShell.
